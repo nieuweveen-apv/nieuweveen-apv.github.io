@@ -27,5 +27,5 @@ Buiten onze main discord hebben we ook een aantal andere discord servers, deze v
 
 | Discord | Discord Uitnodiging |
 |---|---|
-| Nieuweveen Main Discord | [Uitnodiging](https://discord.gg/rCjqgerNy6) |
-| Nieuweveen Support Discord | [Uitnodiging](soon) |
+| Nieuweveen Main Discord | [Uitnodiging](https://discord.gg/VbWnEE7GgV) |
+| Nieuweveen Support Discord | [Uitnodiging](https://discord.gg/FxmdJmTb3X) |
