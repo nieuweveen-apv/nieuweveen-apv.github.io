@@ -23,9 +23,9 @@
    - Het verhandelen van items, valuta, diensten en/of accounts voor echt geld is verboden.
 
 ### **Artikel 3: Alt Characters (Straf-categorie: 9)**
-   - Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Havenland te spelen.
+   - Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Nieuweveen te spelen.
    - Het is verboden om een alt account aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.
-   - Het is niet toegestaan te spoofen om op die manier weer toegang te krijgen tot je account op Havenland.
+   - Het is niet toegestaan te spoofen om op die manier weer toegang te krijgen tot je account op Nieuweveen.
 
 
 ### **Artikel 3A: Startersgeld (categorie 9)**
@@ -94,7 +94,7 @@
 
 ### **Artikel 7: Karakter breken / OOC (Straf-categorie: 1)** 
    - Het is te allen tijde niet toegestaan om je karakter te breken. Alles onder Out Of Character valt hieronder. Ook woorden als "staff", "broodje", "tickets", "refund", "bug" zijn niet toegestaan.
-   - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad Havenland. (Uitzonderlijke situaties moeten bij een stafflid aangevraagd worden)
+   - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad Nieuweveen. (Uitzonderlijke situaties moeten bij een stafflid aangevraagd worden)
    - Het karakter breken in porto valt hier ook onder. Een stafflid staat **altijd** in zijn recht een warn uit te delen op **ieder** moment, wanneer een speler zijn/haar karakter breekt.
    - Het is verboden om een ingame ban/warn te vermelden in de stad. Ook niet onder het mom "vakantie".
 
@@ -166,11 +166,11 @@
    - Wanneer een speler uit een gang gaat, of word gekickt hebben beide partijen 48 uur de tijd om elkaar (speler of gang) te vermoorden met deze reden. Anders valt het onder RDM.
 
 ### **Artikel 15: Metagamen (Straf-categorie: 3)**
-   - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen Havenland) mag niet gebruikt worden door het karakter, denk daarbij aan info die je via discord verkregen heb, buiten de daarvoor bestemde kanalen.
-   - Wanneer je in Havenland bent is het verboden om te screen sharen.
-   - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op Havenland speelt is het verplicht om jezelf te muten tijdens scenario's.
-   - Het versturen van ingame informatie in de Havenland onderwereld discord wordt gezien als meta.
-   - Als je Havenland streamt moet deze altijd openbaar zijn. Privéstreamen is verboden.
+   - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen Nieuweveen) mag niet gebruikt worden door het karakter, denk daarbij aan info die je via discord verkregen heb, buiten de daarvoor bestemde kanalen.
+   - Wanneer je in Nieuweveen bent is het verboden om te screen sharen.
+   - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op Nieuweveen speelt is het verplicht om jezelf te muten tijdens scenario's.
+   - Het versturen van ingame informatie in de Nieuweveen onderwereld discord wordt gezien als meta.
+   - Als je Nieuweveen streamt moet deze altijd openbaar zijn. Privéstreamen is verboden.
 
 
 ### **Artikel 16: Voertuig gebruik (Straf-categorie: 1)**
@@ -242,7 +242,7 @@
 
 ### **Artikel 25: Manier van gebruik van /report** 
 - Reports dienen duidelijk verwoord te zijn. 
-- Voor RDM, metagaming en combatloggen hoef je geen report aan te maken. Hiervoor dien je een ticket aan te maken in de support Discord van Havenland.
+- Voor RDM, metagaming en combatloggen hoef je geen report aan te maken. Hiervoor dien je een ticket aan te maken in de support Discord van Nieuweveen.
 - Wees altijd zo volledig mogelijk. Er komt geen hulp wanneer je de volgende uitspraken maakt: staff kom eens, of staff ik heb een vraag of alleen rdm/vdm.
 
 ### **Artikel 26: Spammen (Straf-categorie: 1)**
@@ -250,7 +250,7 @@
 - Onder spammen wordt ook verstaan het continu herhalen van berichten in /me.
 
 ### **Artikel 27: Het gebruiken van de Nederlandse taal (Straf-categorie: 1)**
-- Tijdens het spelen van de stad Havenland, is het vereist om de Nederlandse taal te beheersen en toe te passen.
+- Tijdens het spelen van de stad Nieuweveen, is het vereist om de Nederlandse taal te beheersen en toe te passen.
 - Het standaard Engels spreken is niet toegestaan, binnen een bepaald karakter is dit wel mogelijk.
 
 ### **Artikel 27.1: Stemherkenning (Straf-categorie: 1)**
@@ -336,7 +336,7 @@
 - Kills van de politie tellen ook mee in de gang war aangezien je dood gaat in hetzelfde scenario. 
 - Wanneer je dood bent gegaan tijdens een war met meerdere gangs mag je niet meer meedoen tot de war over is (ook niet met nieuwe redenen). Indien dit wel geconstateerd wordt, wordt dit bestraft met een straf uit de 2de categorie. Kortom, dood = dood (verkeersongevallen en dodelijke ongelukken vallen hier ook onder).
 - Indien je onbewust voor een 2de keer wordt doodgeschoten in een gangwar omdat je op een bepaalde plek bent, is dit op eigen risico. Indien men er vanaf weet en je bewust nog een keer shoot, zal dit vallen onder artikel 14.
-- Voor specificaties en extra informatie staan alle regels omtrent gangwars in de Havenland Onderwereld Discord bij het kanaal [Gang-regels](https://discordapp.com/channels/777512381688709200/777515986567692308)
+- Voor specificaties en extra informatie staan alle regels omtrent gangwars in de Nieuweveen Onderwereld Discord bij het kanaal [Gang-regels](https://discordapp.com/channels/777512381688709200/777515986567692308)
 
 ### **Artikel 32.2: Ontvoeren (Straf-categorie: 1)**
 - Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie in dienst.
@@ -350,7 +350,7 @@
 ### **Artikel 33: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 leden.
 - Bovenstaand geldt voor erkende gangs en niet erkende gangs.
-- Vanaf 10 leden is het verplicht om in een discord te zitten van Havenland, deze dient direct aangevraagd te worden via een ticket!
+- Vanaf 10 leden is het verplicht om in een discord te zitten van Nieuweveen, deze dient direct aangevraagd te worden via een ticket!
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de betreffende gang.
 - Elke gang mag maximaal 8 friends hebben. Deze friends dienen ook de 'Friend' rol te hebben in de onderwereld discord.
 - Per scenario mogen er maximaal 5 friends koppelen. Ookal zijn er 8 in call, er mogen maar 5 aankoppelen
@@ -411,12 +411,12 @@
 
 ### **Artikel 39: Streamers en content creators (Straf-categorie: 6)**
 - Zorg er voor dat de mensen met wie je in discord zit van je streaming afweten.
-- Je bent als streamer een visitekaartje voor Havenland. Mochten er dingen gebeuren, laat het ons weten via een ticket.
+- Je bent als streamer een visitekaartje voor Nieuweveen. Mochten er dingen gebeuren, laat het ons weten via een ticket.
 - Doordat je jezelf vrij makkelijk in de picture zet, kunnen wij wat strenger zijn tegen streamers, aangezien we live beelden van ze hebben.
 - Mocht je iets zien bij een andere streamer wat je niet bevalt. Spreek dan een stafflid aan of maak een ticket aan.
 - FailRP, RDM, VDM en dat soort zaken on-stream wordt direct bestraft.
-- De naam Havenland moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
-- Havenland in een kwaad daglicht zetten in je stream zal resulteren in een ban.
+- De naam Nieuweveen moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
+- Nieuweveen in een kwaad daglicht zetten in je stream zal resulteren in een ban.
 - Samenwerken met een hacker of het niet melden terwijl je weet dat er een hacker in de stad is, zal resulteren in een ban.
 
 ### **Artikel 40: Erotische roleplay (Straf-categorie: 5)**
@@ -523,4 +523,4 @@ Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 - Je mag niet uit een helicopter springen als jij de bestuurder bent. Tenzij je helicopter neerstort, dan mag dit wel.
 
 ---
-APV opgesteld uit naam van de beheersleden, bedoeld voor het eiland, de gemeente en de stad Havenland Roleplay, opgetekend door BeertjeNL - beertjenl0105, te Havenland.
+APV opgesteld uit naam van de beheersleden, bedoeld voor het eiland, de gemeente en de stad Nieuweveen Roleplay, opgetekend door BeertjeNL - beertjenl0105, te Nieuweveen.
