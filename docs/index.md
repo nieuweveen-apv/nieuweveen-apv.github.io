@@ -1,18 +1,18 @@
 # Hoofdpagina
-### Algemene Plaatselijke Verordening Havenland Roleplay
+### Algemene Plaatselijke Verordening Nieuweveen Roleplay
 </br>
 
 **Algemene definities:**<br>
-**Stad:**		    Havenland Roleplay<br>
+**Stad:**		    Nieuweveen Roleplay<br>
 **Staff Team:**		Staff<br>
 **Hogerop:**		  Headstaff +<br>
 </br>
 
-Alle regels zijn van toepassing binnen Havenland Roleplay. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
+Alle regels zijn van toepassing binnen Nieuweveen Roleplay. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
 </br>
 
 **Staff-zaken:**<br>
-Elk staff-lid is bevoegd staff-zaken te behandelen kijkend naar de regels van Havenland. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.<br>
+Elk staff-lid is bevoegd staff-zaken te behandelen kijkend naar de regels van Nieuweveen. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.<br>
 </br>
 
 **Begrippen:**<br>
@@ -27,5 +27,5 @@ Buiten onze main discord hebben we ook een aantal andere discord servers, deze v
 
 | Discord | Discord Uitnodiging |
 |---|---|
-| Havenland Main Discord | [Uitnodiging](https://discord.gg/rCjqgerNy6) |
-| Havenland Support Discord | [Uitnodiging](soon) |
+| Nieuweveen Main Discord | [Uitnodiging](https://discord.gg/rCjqgerNy6) |
+| Nieuweveen Support Discord | [Uitnodiging](soon) |
