@@ -66,7 +66,7 @@ Een delfine is een boete die je wordt opgelegd zodra jij een voertuig (kapot) ac
 - Bij meer dan €10.000.000 bedraagt de boete €15.000.
 
 ### **Wegenbelasting.**
-Elke dinsdag en zaterdag om 04:00  wordt er in Prime wegenbelasting betaald. Je betaalt wegenbelasting wanneer je 4 of meer voertuigen hebt. Hoeveel je betaalt hangt af van de hoeveelheid voertuigen je in je garage hebt.
+Elke dinsdag en zaterdag om 04:00  wordt er in NIeuweveen wegenbelasting betaald. Je betaalt wegenbelasting wanneer je 4 of meer voertuigen hebt. Hoeveel je betaalt hangt af van de hoeveelheid voertuigen je in je garage hebt.
 
 - Tussen de 4 en 8 voertuigen: €5.000
 - Tussen de 9 en 12 voertuigen: €10.000
